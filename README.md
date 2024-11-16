@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjanav6
-- 👀 I’m interested in webapp development and ui ux design 
-- 🌱 I’m currently learning ...web development
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning ... stm32 microcontrollers and shell scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
